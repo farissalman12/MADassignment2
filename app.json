@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "scheme": "api-snake-game",
+    "web": {
+      "bundler": "metro"
+    },
+    "plugins": [
+      "expo-router"
+    ]
+  }
+}
